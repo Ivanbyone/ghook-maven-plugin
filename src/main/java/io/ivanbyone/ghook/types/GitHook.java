@@ -60,7 +60,7 @@ public enum GitHook {
 
     P4_POST_CHANGELIST("p4-post-changelist"),
 
-    P$_PRE_SUBMIT("p4-pre-submit"),
+    P4_PRE_SUBMIT("p4-pre-submit"),
 
     POST_INDEX_CHANGE("post-index-change");
 
